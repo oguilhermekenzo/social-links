@@ -1,0 +1,12 @@
+# Arquivos de projeto
+##############################################
+*.sketch
+*.fig
+*.xd
+
+# Arquivos Markdown para documentação
+##############################################
+AGENTS.md
+CLAUDE.md
+README-desafio.md
+style-guide.md
